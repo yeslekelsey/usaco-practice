@@ -20,3 +20,8 @@ int main() {
 	cout << tuition << " " << charge;
 	return 0;
 }
+
+/*
+link to problem: http://www.usaco.org/index.php?page=viewproblem2&cpid=1251
+this is from the december 2022 contest
+*/
